@@ -1,4 +1,4 @@
-Star,JD-2450000,S/N,RV(km/s),RV_error(km/s),Max_ΔRV(km/s),RUWE,AEN,Category
+Star,JD-2450000,S/N,RV(km/s),RV_error(km/s),Max_ΔRV(km/s),RUWE,AEN(mas),Category
 *BCAP,8650.82,64,-20.962,0.003,0.032,2.027,0.836,1
 ,9538.57,62,-20.994,0.005,,,,
 ,9673.89,62,-20.974,0.003,,,,
